@@ -138,6 +138,8 @@ button:hover {
   .content h2 {
     font-size: 28px;
     margin: 10px 0;
+    display: flex;
+    flex-direction: column;
   }
 
   .tag {
